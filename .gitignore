@@ -39,3 +39,4 @@ dist
 
 # VS Code config
 .vscode
+package-lock.json
